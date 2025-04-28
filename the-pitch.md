@@ -18,14 +18,21 @@ As a dev in the data scientist role I want the following:
 
 1. More autonmomy and self service to work with the tools required to do my job
 1. More reproducibile environments
+1. more automation
+1. CI/CD
 
 As the cdo I want:
 1. better interoperability between the teams and roles
 1. better code security
+1. better observabilty 
 
 As IT I want:
 1. Tools that fit within the gaurdrails already setup
 1. reduce reliance on shadow IT
+1. Make it microsoft
+
+As an agency:
+1. I want solutions that scale up and down with use and as $$ demands change.
 
 
 
